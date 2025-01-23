@@ -1,6 +1,7 @@
 # OwlDB Project
 
 OwlDB NoSQL document database for COMP 318 class.
+In collaboration with Nathan Chou and Shivam Pathak.
 
 ## Skeleton Code
 
